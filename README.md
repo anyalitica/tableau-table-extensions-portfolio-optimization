@@ -9,7 +9,7 @@ This tool provides an optimal allocation strategy using two of the most frequent
 
 ## How it works
 
-![architecture](https://github.com/anyalitica/tableau-table-extensions-portfolio-optimization/assets/47951483/8736179d-5b66-42fd-b801-6151bca03af2)
+![architecture_order](https://github.com/anyalitica/tableau-table-extensions-portfolio-optimization/assets/47951483/ca593e24-03bd-4a5b-a77b-afeed67177c0)
 
 ### Duck db input
 ### Custom SQL configuration
