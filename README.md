@@ -4,11 +4,11 @@ This tool provides an optimal allocation strategy using two of the most frequent
 
 **THIS IS NOT INVESTMENT ADVICE. THIS TOOL IS PROVIDED FOR EDUCATIONAL PURPOSES, AND ITS RESULTS ARE ILLUSTRATIVE ONLY. PAST PERFORMANCE IS NOT INDICATIVE OF FUTURE RETURNS.**
 
-![dashboard](dashboard.png)
+![](./images/dashboard.png")
 
 ## How it works
 
-![architecture](architecture.png)
+![](./images/architecture.png")
 
 ### Duck db input
 ### Custom SQL configuration
