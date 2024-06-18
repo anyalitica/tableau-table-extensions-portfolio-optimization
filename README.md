@@ -5,11 +5,11 @@ This tool provides an optimal allocation strategy using two of the most frequent
 
 **THIS IS NOT INVESTMENT ADVICE. THIS TOOL IS PROVIDED FOR EDUCATIONAL PURPOSES, AND ITS RESULTS ARE ILLUSTRATIVE ONLY. PAST PERFORMANCE IS NOT INDICATIVE OF FUTURE RETURNS.**
 
-_ADD DASHBOARD IMAGE_
+![dashboard](https://github.com/anyalitica/tableau-table-extensions-portfolio-optimization/assets/47951483/77f8da92-8103-4e81-9e37-c7383dabd718)
 
 ## How it works
 
-_ADD Architecture IMAGE_
+![architecture](https://github.com/anyalitica/tableau-table-extensions-portfolio-optimization/assets/47951483/8736179d-5b66-42fd-b801-6151bca03af2)
 
 ### Duck db input
 ### Custom SQL configuration
