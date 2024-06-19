@@ -23,6 +23,8 @@ Once this is done, you should be able to see the input table with currently set 
 
 ![custom_sql](images/custom_sql.png)
 
+### Data sets in Tableau
+
 In the case of this project, I needed to retunr two different dataframes for the dashboard:
 #### Portfolio_allocation data set
 
