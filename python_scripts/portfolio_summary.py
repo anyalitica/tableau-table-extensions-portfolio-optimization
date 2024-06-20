@@ -92,13 +92,13 @@ S = risk_models.CovarianceShrinkage(adjusted_close_df,
                                     returns_data=False,
                                     frequency=252).ledoit_wolf()
 
-# 10 year Treasury rate, as of 30 April 2021
+# 10 year Treasury rate, as of June 18, 2024
 # https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/textview.aspx?data=yield
-rate = 0.0165
+rate =  0.0212
 
-# Inflation rate as of 13 April 2021
+# Inflation rate as of June 2024
 # https://tradingeconomics.com/united-states/inflation-cpi
-inflation = 0.026
+inflation = 0.033
 
 # Calculate the risk free rate (rfr) of borrowing/lending.
 #https://www.investopedia.com/terms/r/risk-freerate.asp
