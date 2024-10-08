@@ -29,7 +29,7 @@ row = selected_companies_df.iloc[0]
 equities = row.tolist()
 
 # Get the start date of the historical period: the first date when all selectedtickers were traiding. 
-# This date shoudl b enot longer than 5 years away today
+# This date should be not longer than 5 years away today
 
 # Function to get the first trading date for a given ticker
 def get_first_trading_date(ticker):
